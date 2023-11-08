@@ -1,0 +1,22 @@
+package vehiculos;
+
+public class Bici {
+	// Atributos
+	String marca;
+	int cc;
+	
+	// constructor
+	public Bici (String marca, int cc) {
+		this.marca = marca;
+		this.cc = cc;
+	}
+	
+	// metodos
+	public String obtenerMarca() {
+		return marca;
+	}
+	
+	public int obtenerCC( ) {
+		return cc;
+	}
+}

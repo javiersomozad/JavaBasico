@@ -1,0 +1,7 @@
+package vehiculos1;
+
+public class vehiculo {
+	public void mostrarVehiculo() {
+		System.out.println("aqui se imprime la información del vehiculo");
+	}
+}

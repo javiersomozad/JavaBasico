@@ -1,0 +1,16 @@
+package vehiculos;
+
+public class Moto {
+	// Atributos
+	String marca;
+	int cc;
+	
+	// metodos
+	public String obtenerMarca() {
+		return marca;
+	}
+	
+	public int obtenerCC( ) {
+		return cc;
+	}
+}

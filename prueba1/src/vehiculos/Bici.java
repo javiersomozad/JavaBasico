@@ -1,0 +1,22 @@
+package vehiculos;
+
+public class Bici {
+	// Atributos
+	String modelo;
+	double precio;
+	
+	// constructor
+	public Bici (String m, double p) {
+		modelo = m;
+		precio = p;
+	}
+	
+	// metodos
+	public String obtenerModelo() {
+		return modelo;
+	}
+	
+	public double obtenerPrecio( ) {
+		return precio;
+	}
+}
