@@ -1,2 +1,7 @@
+GitRepositoriesView.GitDirectories=/home/java-jee/workspace/.git\:
+GitRepositoriesView.GitDirectories.relative=.git\:
+RepositorySearchDialogDeepSearch=false
+RepositorySearchDialogSearchPath=/home/java-jee/workspace
+RepositorySearchDialogSkipHidden=false
 core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1
